@@ -13,5 +13,5 @@ A mobile app signup flow is the process of users creating an account and signing
  is to make it easy for customers to find the dishes they want, and to
  encourage them to order more.
   
-![Task 1 Image](./T2 ss.png)
+![Task 2 Image](./T2 ss.png)
  
