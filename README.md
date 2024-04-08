@@ -1,4 +1,5 @@
 # Codesoft-UI-UX
+You can see more about this(video) on my LinkedIn profile
 # TASK 01:  Mobile App Signup Flow
 
 A mobile app signup flow is the process of users creating an account and signing up for an
