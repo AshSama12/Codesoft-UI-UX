@@ -23,4 +23,4 @@ A mobile app signup flow is the process of users creating an account and signing
 commerce website is to make it easy for customers to find the products
  they want, and to encourage them to buy them.
  ### Image Preview
-![Task 2 Image](./T2_ss.png)
+![Task 2 Image](./website1.png)
