@@ -18,7 +18,8 @@ A mobile app signup flow is the process of users creating an account and signing
  
 
  # TASK 03:  E-Commerce website
-      An e-commerce website UI/UX project is the process of designing an online
+  
+  An e-commerce website UI/UX project is the process of designing an online
  store that is both visually appealing and easy to use. The goal of a good e
 commerce website is to make it easy for customers to find the products
  they want, and to encourage them to buy them.
