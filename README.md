@@ -1,5 +1,5 @@
 # Codesoft-UI-UX
-You can see more about this(video) on my LinkedIn profile
+You can see more about this(video) on my LinkedIn profile[https://www.linkedin.com/in/ashinisamare/]
 
 # TASK 01:  Mobile App Signup Flow
 
